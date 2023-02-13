@@ -14,5 +14,5 @@ A Telegram embedded marketplace for users to buy, collect and exchange NFT-Stick
 
 3. In-Conversation Usage
 
-In-Conversation bootstrapping that guides receiver of NFT_Sticker to find details of NFT-Sticker and how to purchase it.
+In-Conversation bootstrapping that guides receiver to find details of NFT-Sticker and how to purchase it.
 
