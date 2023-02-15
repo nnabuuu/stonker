@@ -1,6 +1,6 @@
 # Stonker: Ton-based NFT Sticker Market Place
 
-Stonker is a Telegram-Wel-Application platform that allows user to use NFT on TON Blockchain as sticker.
+Stonker is a Telegram-Web-Application platform that allows user to use NFT on TON Blockchain as sticker.
 
 ## Key Features
 
